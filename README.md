@@ -9,11 +9,8 @@
 
    Projects ;
 Here are some projects I plan to work on
-1. Analyzing customer churn trends in a telecommunications company
-2. Building a dashboard to visualize sales performance data using Power BI
-3. Predicting stock prices using machine learning algorithms
-4. Investigating the impact of climate change on health
-5. Understanding the YouTube money-making algorithm
+1.Investigating the impact of climate change on health
+2. Understanding the YouTube money-making algorithm
 
 Feel free to check out my projects or reach out if you're interested in collaborating!
 
